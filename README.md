@@ -28,16 +28,16 @@ pip install pandas matplotlib seaborn scikit-learn
 - Applies Principal Component Analysis (PCA) to reduce feature space to 2D.
 -Visualizes clusters using Seaborn's scatterplot.
 
-###5. Cluster Analysis
+### 5. Cluster Analysis
 - Outputs mean values of features per cluster to interpret the clustering output.
 ---
 
-##📈 Visual Outputs
+## 📈 Visual Outputs
 
-###Elbow Curve: 
+### Elbow Curve: 
 To determine the optimal number of clusters.
 
-###Cluster Plot (PCA-reduced): 
+### Cluster Plot (PCA-reduced): 
 For intuitive 2D visualization of high-dimensional clusters.
 ---
 
