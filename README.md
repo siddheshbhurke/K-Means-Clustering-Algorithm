@@ -8,9 +8,9 @@ This project performs unsupervised clustering on the Iris dataset using the K-Me
 ---
 ## 🛠️ Requirements
 Install the following Python packages before execution:
-'''
+```
 pip install pandas matplotlib seaborn scikit-learn
-'''
+```
 ---
 ## 📊 Key Operations : 
 ### 1. Preprocessing 
@@ -42,7 +42,7 @@ For intuitive 2D visualization of high-dimensional clusters.
 ---
 
 ## 📌 How to Run
-'''python kmeans_iris.py'''
+```python kmeans_iris.py```
 - Ensure 1) iris.csv is present in the working directory.
 ---
 
