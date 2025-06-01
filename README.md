@@ -1,7 +1,7 @@
 # K-Means-Clustering-Algorithm
 This project performs unsupervised clustering on the Iris dataset using the K-Means algorithm. It includes data preprocessing, cluster optimization using the Elbow Method, dimensionality reduction with PCA for visualization, and analysis of cluster-wise feature distributions.
 ---
-##📁 Dataset
+## 📁 Dataset
 - File: 1) iris.csv
 - Attributes: Sepal Length, Sepal Width, Petal Length, Petal Width, Species (optional)
 - Note: The script dynamically handles the presence or absence of the species column.
@@ -58,7 +58,7 @@ This script is ideal for:
 - Visualizing clusters in high-dimensional data
 - Gaining insight into feature-based separation of classes (e.g., species in Iris dataset)
 ---
-##🔒 License
+## 🔒 License
 This project is open-source and free to use for academic and research purposes.
 ---
 
